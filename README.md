@@ -21,3 +21,11 @@
 </br>
 [![Email](https://img.shields.io/badge/o.p.ferandez4@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:o.p.fernandez4@gmail.com)
 </br>
+
+### ⚙️&nbsp;GitHub Analytics
+<p align="center">
+  <a href="https://github.com/OspofeDeveloper" style="display: flex;">
+    <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OspofeDeveloper&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OspofeDeveloper&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
