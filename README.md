@@ -5,7 +5,7 @@
 
 ## About Me:
 - 🎓 Software Engineering Student
-- 📲 Passionate Mobile Developer
+- 📲 Passionate in Mobile Developement
 - 📙 Currently learning Firebase with Android
 
 ## Tecnologies:
