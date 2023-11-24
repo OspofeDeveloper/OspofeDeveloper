@@ -1,6 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm Oscar Pozo 👋</h1>
 </div>
+<img src="https://www.canva.com/design/DAF1FDxVaZM/yZ8dM4Ti-jUeoVvzT0E5hA/view?utm_content=DAF1FDxVaZM&utm_campaign=designshare&utm_medium=link&utm_source=editor">
 
 <!--
 **OspofeDeveloper/OspofeDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
