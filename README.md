@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm Oscar Pozo 👋</h1>
-  <img src="https://imgur.com/Y8gdgt2.png">
+  <img src="https://i.imgur.com/MterVAL.png">
 </div>
 
 
