@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm Oscar Pozo 👋</h1>
 </div>
-<img src="[https://imgur.com/a/IT6WLYn](https://i.imgur.com/J2NS3Ta.png)">
+<img src="https://i.imgur.com/J2NS3Ta.png">
 
 <!--
 **OspofeDeveloper/OspofeDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
