@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm Oscar Pozo 👋</h1>
-  <img src="https://i.imgur.com/MterVAL.png">
+  <img src="https://i.postimg.cc/t4q7mnX9/Dise-o-sin-t-tulo-2-1-1-1.png">
 </div>
 
 
