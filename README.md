@@ -27,7 +27,7 @@
 ## World Explorer:
 ![WORLD EXPLORER (1)](https://github.com/OspofeDeveloper/OspofeDeveloper/assets/126957247/c4514836-8beb-4151-b853-bf9ee8730639)
 
-[![GitHub Star](https://img.shields.io/badge/-See_the_code-lightblue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
+[![GitHub Star](https://img.shields.io/badge/-See_the_code-lightblue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/OspofeDeveloper/WorldExplorer)
 
 ### ⚙️&nbsp;GitHub Analytics
 <p align="center">
